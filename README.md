@@ -1,6 +1,8 @@
 # Excel-Sales-Analytics
 
 📊 Excel Sales & Finance Analytics Project
+
+
 📝 Project Summary
 This project demonstrates comprehensive Excel-based analytics for evaluating Sales and Finance performance. It includes structured reports that help stakeholders assess sales trends, financial outcomes, and business opportunities. By leveraging tools like Power Query, Power Pivot, and DAX, this project transforms raw data into actionable insights with user-focused design and efficient data modeling.
 
